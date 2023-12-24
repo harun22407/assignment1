@@ -1,0 +1,11 @@
+<!-- First create the nav bar. The class "nav" is used to set the background color and style of the nav bar element. -->
+
+<!-- The nav bar item should be inline. So we need to use the display flex property. -->
+
+<!-- New York Tourism is the main heading. So it should be written in h1 tag. -->
+
+<!-- Images should be in one div. To make all images inline we need to use display-inline-flex.  -->
+
+<!-- When the cursor goes on the images, the width and height of the images should be larger than its original. Therefore, we must use hover property on images.  -->
+
+<!-- While introducing the iframe tag, it should be visible to the entire display width. So we must use width 100%. -->
